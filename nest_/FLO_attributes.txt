@@ -1,0 +1,3 @@
+instants_attack:10
+v_increment:551
+n_neurons:450
